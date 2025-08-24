@@ -26,13 +26,7 @@ Code
 
 ## ⚙️ Como Executar
 
-1.  Clone este repositório:
-
-    ```bash
-    git clone <URL do seu repositório>
-    ```
-
-2.  Abra o arquivo `index.html` no seu navegador.
+1.  Abra o arquivo `index.html` no seu navegador.
 
     *   Recomendação: Use a extensão **Live Server** no VS Code para atualizações automáticas.
 
