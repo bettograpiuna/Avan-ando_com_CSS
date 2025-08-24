@@ -1,15 +1,57 @@
-Formulário Responsivo com CSS Moderno
-Descrição
-Este projeto é um formulário de login simples, desenvolvido com HTML5 e CSS3 para demonstrar técnicas de design moderno e responsivo.
-O layout utiliza Media Queries para se adaptar a diferentes tamanhos de tela (desktop,  tablet  e celular). Pseudo-elementos (::before e ::after) são usados para 
-adicionar ícones aos campos e criar efeitos de hover nos botões, mantendo o código HTML limpo. A estilização final  inclui bordas arredondadas e sombras para uma 
-interface agradável.
-Estrutura do Projeto
-O projeto contém dois arquivos principais:
-index.html: Responsável pela estrutura do formulário.
-styles.css: Responsável por toda a estilização e responsividade.
-Como Executar
-Para rodar o projeto, basta baixar os arquivos e abrir o index.html em qualquer navegador web.
+# Formulário de Login Responsivo em HTML e CSS
 
-Acessar: https://bettograpiuna.github.io/Avan-ando_com_CSS/
+https://bettograpiuna.github.io/Avan-ando_com_CSS/
 
+## Descrição
+
+Este projeto é um formulário de login simples, criado como um exercício de HTML semântico e CSS moderno. Ele demonstra a aplicação de responsividade, pseudo-elementos e boas práticas de código para criar uma interface de usuário atraente e funcional.
+
+## 🛠️ Tecnologias Utilizadas
+
+*   **HTML5:** Estrutura do formulário.
+*   **CSS3:** Estilização e design responsivo:
+    *   **Flexbox:** Layout flexível para alinhamento e organização.
+    *   **Media Queries:** Adaptação a diferentes tamanhos de tela.
+    *   **Pseudo-elementos (`::before`, `::after`):** Adição de ícones e efeitos visuais.
+*   **Ícones:** Caracteres Unicode para os ícones dos campos de usuário e senha.
+
+## 📂 Estrutura do Projeto
+/
+├── index.html
+└── styles.css
+code
+Code
+*   `index.html`: Contém a estrutura HTML do formulário.
+*   `styles.css`: Define a estilização, o design responsivo e os efeitos visuais.
+
+## ⚙️ Como Executar
+
+1.  Clone este repositório:
+
+    ```bash
+    git clone <URL do seu repositório>
+    ```
+
+2.  Abra o arquivo `index.html` no seu navegador.
+
+    *   Recomendação: Use a extensão **Live Server** no VS Code para atualizações automáticas.
+
+## 💡 Funcionalidades
+
+*   Formulário de login simples com campos de nome de usuário e senha.
+*   Design responsivo que se adapta a diferentes dispositivos.
+*   Ícones decorativos nos campos de entrada, adicionados via CSS (`::before`).
+*   Efeito de *hover* nos botões, também implementado com CSS (`::after`).
+*   Estilização moderna com bordas arredondadas e sombras sutis.
+
+## 📝 Notas sobre o Código
+
+*   As classes CSS foram escritas em português para melhor clareza e consistência no projeto.
+*   O formulário é acessível, com `labels` associadas corretamente aos `inputs`.
+*   As Media Queries garantem uma ótima experiência em dispositivos móveis.
+
+## 🚀 Próximos Passos
+
+*   Adicionar validação JavaScript para os campos de entrada.
+*   Implementar um sistema de login real com backend.
+*   Traduzir o código para inglês.
