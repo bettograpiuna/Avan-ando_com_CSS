@@ -11,3 +11,5 @@ styles.css: Responsável por toda a estilização e responsividade.
 Como Executar
 Para rodar o projeto, basta baixar os arquivos e abrir o index.html em qualquer navegador web.
 
+Acessar: https://bettograpiuna.github.io/Avan-ando_com_CSS/
+
